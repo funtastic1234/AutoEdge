@@ -23,3 +23,5 @@ AutoEdge is a chatbot designed to assist automotive engineers by summarizing tec
    cd AutoEdge
 ```
 
+2.	**Install Dependencies**:
+
